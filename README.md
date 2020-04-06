@@ -81,3 +81,18 @@ Predictions are stored in CSV format (`train_pred_out.csv` and `test_pred_out.cs
 - **Sd-mhm**: Sugeno integral with dynamic version of MHM fuzzy measure. Optional params:
   - *score*: score function to use for weight calculation. It can be accuracy ('acc'), mean of TPRs ('tpr'), geometric mean of TPRs ('gm'), F1 score ('f1'), ROC AUC ('auc') or Average Precision ('ap'). Default 'acc'
 - **Seb**: Sugeno integral with Entropy Based fuzzy measure
+
+
+## Citation
+
+**Please cite as**: M. Uriz, D. Paternain, I. Dominguez-Catena, H. Bustince and M. Galar, "Unsupervised Fuzzy Measure Learning for Classifier Ensembles From Coalitions Performance," in IEEE Access, vol. 8, pp. 52288-52305, 2020.
+
+**BibTeX format**:
+@article{Uriz2020,
+author = author={M. {Uriz} and D. {Paternain} and I. {Dominguez-Catena} and H. {Bustince} and M. {Galar}},
+title = title={Unsupervised Fuzzy Measure Learning for Classifier Ensembles From Coalitions Performance},
+journal = {IEEE Access},
+volume = {8},
+pages={52288-52305}
+year = {2020},
+}
