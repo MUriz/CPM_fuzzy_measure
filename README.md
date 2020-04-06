@@ -88,11 +88,19 @@ Predictions are stored in CSV format (`train_pred_out.csv` and `test_pred_out.cs
 **Please cite as**: M. Uriz, D. Paternain, I. Dominguez-Catena, H. Bustince and M. Galar, "Unsupervised Fuzzy Measure Learning for Classifier Ensembles From Coalitions Performance," in IEEE Access, vol. 8, pp. 52288-52305, 2020.
 
 **BibTeX format**:
+
 @article{Uriz2020,
-author = author={M. {Uriz} and D. {Paternain} and I. {Dominguez-Catena} and H. {Bustince} and M. {Galar}},
-title = title={Unsupervised Fuzzy Measure Learning for Classifier Ensembles From Coalitions Performance},
+
+author = {M. {Uriz} and D. {Paternain} and I. {Dominguez-Catena} and H. {Bustince} and M. {Galar}},
+
+title = {Unsupervised Fuzzy Measure Learning for Classifier Ensembles From Coalitions Performance},
+
 journal = {IEEE Access},
+
 volume = {8},
+
 pages={52288-52305}
+
 year = {2020},
+
 }
