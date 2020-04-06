@@ -89,18 +89,11 @@ Predictions are stored in CSV format (`train_pred_out.csv` and `test_pred_out.cs
 
 **BibTeX format**:
 
-@article{Uriz2020,
-
-author = {M. {Uriz} and D. {Paternain} and I. {Dominguez-Catena} and H. {Bustince} and M. {Galar}},
-
-title = {Unsupervised Fuzzy Measure Learning for Classifier Ensembles From Coalitions Performance},
-
-journal = {IEEE Access},
-
-volume = {8},
-
-pages={52288-52305}
-
-year = {2020},
-
+@article{Uriz2020,<br/>
+author = {M. {Uriz} and D. {Paternain} and I. {Dominguez-Catena} and H. {Bustince} and M. {Galar}},<br/>
+title = {Unsupervised Fuzzy Measure Learning for Classifier Ensembles From Coalitions Performance},<br/>
+journal = {IEEE Access},<br/>
+volume = {8},<br/>
+pages={52288-52305},<br/>
+year = {2020},<br/>
 }
